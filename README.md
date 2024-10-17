@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Qinxz1414">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinxz1414&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=transparent" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinxz1414&show_icons=true&theme=transparent" />
     </a>
 </p>
 
@@ -15,6 +15,15 @@
 
 
 <!--
+
+
+<p align="center">
+  <a href="https://github.com/Qinxz1414">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinxz1414&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=transparent" />
+    </a>
+</p>
+
+
 ## Hi there 👋
 
 **Qinxz1414/Qinxz1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
