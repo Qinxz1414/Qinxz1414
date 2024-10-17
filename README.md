@@ -7,10 +7,9 @@
 
 <p align="center">
   <a href="https://github.com/Qinxz1414">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinxz1414&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinxz1414&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=transparent" />
     </a>
 </p>
-
 
 
 
